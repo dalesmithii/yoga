@@ -1,0 +1,58 @@
+{
+    "asanas": [
+        {
+            "name": "Warrior 1",
+            "sanskrit": "Virabhadrasana I",
+            "level": "Beginner",
+            "tags": ["standing"]    
+        },
+        {
+            "name": "Warrior 2",
+            "sanskrit": "Virabhadrasana II",
+            "level": "Beginner",
+            "tags": ["standing"]
+        },
+        {
+            "name": "Warrior 3",
+            "sanskrit": "Virabhadrasana III",
+            "level": "Beginner",
+            "tags": ["standing", "one-legged", "balance"]
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "level": "Beginner",
+            "tags": ["standing"]
+        },
+        {
+            "name": "Bridge Pose",
+            "sanskrit": "Setubandha Sarvangasana",
+            "level": "Beginner",
+            "tags": ["supine", "backbend"]
+        },
+        {
+            "name": "Triangle Pose",
+            "sanskrit": "Trikonasana",
+            "level": "Beginner",
+            "tags": ["standing"]
+        },
+        {
+            "name": "Half Pidgeon",
+            "sanskrit": "Ardha Kapotasana",
+            "level": "Beginner",
+            "tags": ["seated", "forward-bend"]
+        },
+        {
+            "name": "Hand to Foot Revolved Half Moon Bow Pose",
+            "sanskrit": "Hasta Pada Parivritta Ardha Chandrachapasana",
+            "level": "Advanced",
+            "tags": ["standing", "one-legged", "balance"]
+        },
+        {
+            "name": "Lord of the Dance Pose",
+            "sanskrit": "Natarajasana",
+            "level": "Advanced",
+            "tags": ["standing", "balance", "one-legged", "backbend"]
+        }
+    ]
+}

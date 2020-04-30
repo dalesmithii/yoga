@@ -1,0 +1,9 @@
+.Pose-card {
+    border: 1px;
+    border-style: outset;
+    margin: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    max-width: 25%;
+}
